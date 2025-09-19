@@ -2,7 +2,7 @@
 A PDF with codes for anyone wanna be an expert in SQL
 
 
-Main Database: DB.sql
+Main Database: OnlineBookstoreDB.sql
 
 Practice Database: PracticeDB.sql
 
